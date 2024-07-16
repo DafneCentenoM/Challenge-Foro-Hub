@@ -9,10 +9,10 @@
 *Eliminar un tópico
 
 Es decir creamos un CRUD:
-*CREATE
-*READ
-*UPDATE
-*DELETE
+*CREATE<br>
+*READ<br>
+*UPDATE<br>
+*DELETE<br>
 
 
 <h2>Objetivo</h2>

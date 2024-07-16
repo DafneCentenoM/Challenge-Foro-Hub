@@ -1,14 +1,14 @@
 <h1>CHALLENGE FORO-HUB</h1>
 
 <p>Este proyecto consta de crear una API REST usando Spring. ForoHub se centra en permitir a los usuarios:</p>
+<br>
+*Crear un nuevo tópico<br>
+*Mostrar todos los tópicos creados<br>
+*Mostrar un tópico en especifico<br>
+*Actualizar un tópico<br>
+*Eliminar un tópico<br>
 
-*Crear un nuevo tópico
-*Mostrar todos los tópicos creados
-*Mostrar un tópico en especifico
-*Actualizar un tópico
-*Eliminar un tópico
-
-Es decir creamos un CRUD:
+Es decir creamos un CRUD:<br>
 *CREATE<br>
 *READ<br>
 *UPDATE<br>
@@ -16,8 +16,8 @@ Es decir creamos un CRUD:
 
 
 <h2>Objetivo</h2>
-Implementar un API REST con las funcionalidades
-1. API con rutas implementadas siguiendo las mejores prácticas del modelo REST;
-2. Validaciones realizadas según las reglas de negocio;
-3. Implementación de una base de datos relacional para la persistencia de la información;
+Implementar un API REST con las funcionalidades<br>
+1. API con rutas implementadas siguiendo las mejores prácticas del modelo REST;<br>
+2. Validaciones realizadas según las reglas de negocio;<br>
+3. Implementación de una base de datos relacional para la persistencia de la información;<br>
 4. Servicio de autenticación/autorización para restringir el acceso a la información.
